@@ -29,7 +29,7 @@ public class database {
 	@BeforeTest
 	public void before(){
 		
-		//Github updated
+		//Github updated.
 		mySQL="jdbc:mysql://localhost:3306/";
 		myDB="dlearn";
 		mySQLDB= mySQL+myDB;
